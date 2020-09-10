@@ -1,0 +1,23 @@
+body {
+    background: #c2f0fc;
+    font-family: 'Montserrat', cursive;
+    color: #46b5d1;
+}
+
+form {
+    text-align: center;
+    margin-top: 40px;
+    background: #c2f0fc;
+}
+
+.name-input {
+    margin: 5px;
+}
+
+.email-input {
+    margin: 10px;
+}
+
+.msg-text {
+    color: grey;
+}

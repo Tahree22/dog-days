@@ -1,0 +1,44 @@
+body {
+    background: #c2f0fc;
+    width: 100%;
+    margin: 0;
+}
+
+h1 {
+    font-family: 'Pacifico', 'cursive';
+    color: #46b5d1;
+    text-align: center;
+    margin-bottom: 50px;
+    letter-spacing: 2px;
+}
+
+p {
+    font-family: 'Montserrat', 'cursive';
+    color: #46b5d1;
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 10px;
+}
+
+.dog-image{
+    flex-direction: row;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+
+}
+
+.btn{
+    
+    text-align: center;
+}
+
+hr{
+    border-style: dotted none none;
+    background-color: #c2f0fc;
+    width: 15%;
+    border-color: grey;
+    border-width: 10px;
+}
+
